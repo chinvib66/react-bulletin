@@ -1,7 +1,7 @@
 {
   "name": "bulletin2",
   "version": "0.1.0",
-  "homepage" :"https://chinvib66.github.io/react-bulletin",
+  "homepage" :"http://chinvib66.github.io/react-bulletin",
   "private": true,
   "dependencies": {
     "react": "^16.6.0",
